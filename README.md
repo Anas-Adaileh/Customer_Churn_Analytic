@@ -1,5 +1,5 @@
 # Customer Churn Analysis Project
-comprehensive customer churn analysis project delves into customer behavior through extensive exploratory data analysis (EDA) and machine learning. It identifies key patterns, factors influencing churn, and provides actionable insights for improving customer retention.
+comprehensive customer churn analysis project for a telecom company delves into customer behavior through extensive exploratory data analysis (EDA) and machine learning. It identifies key patterns, factors influencing churn, and provides actionable insights for improving customer retention.
 The project is enriched with Python Jupyter Notebook and downloadable Power BI and Interactive Tableau dashboard.
 
 ## Table of Contents
