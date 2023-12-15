@@ -59,7 +59,14 @@ The dataset needs a little cleaning in terms of format; otherwise, the data have
 For the detailed analysis, you can access the [Python Jupyter Notebook here](https://github.com/Anas-Adaileh/Customer_Churn_Analytic/blob/main/Customer%20Churn%20Project.ipynb).
 
 ### Dashboard
-You can download the interactive dashboard for this project using [Power BI Dashboard (Download)](https://drive.google.com/file/d/1nl4MkNzNebye74_InWljeEl-Z-2WYYSa/view?usp=drive_link) or interact with the [Tableau Dashboard Here (Interactive)](https://public.tableau.com/app/profile/anas.adaileh/viz/CustomerChurnDashboard_17023912588670/Dashboard1#2).
+You can download the interactive dashboard for this project using [Power BI Dashboard (Download)](https://drive.google.com/file/d/1nl4MkNzNebye74_InWljeEl-Z-2WYYSa/view?usp=drive_link) or interact with the [Tableau Dashboard Here (Interactive)](https://public.tableau.com/app/profile/anas.adaileh/viz/CustomerChurnDashboard_17023912588670/Dashboard1#2).Snapshot of the dashboard:
+
+![Dashboard Preview]( https://github.com/Anas-Adaileh/Customer_Churn_Analytic/blob/main/Dashboard.jpg)
+
+View of the data architecture and modeling process 
+
+![Data Modeling Diagram]( https://github.com/Anas-Adaileh/Customer_Churn_Analytic/blob/main/Data%20Modeling.jpg).
+
 
 ## Results
 
